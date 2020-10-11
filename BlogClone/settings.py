@@ -87,7 +87,7 @@ DATABASES = {
         'USER': 'MXM0821@mcfinmod.database.windows.net',
         'PASSWORD': 'Mm#1172129',
         'OPTIONS': {
-            'driver': 'ODBC Driver 13 for SQL Server',
+            'driver': 'ODBC Driver 17 for SQL Server',
         },
     },
 }
